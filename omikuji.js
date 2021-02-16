@@ -1,5 +1,5 @@
 var username;
-var rserresult;
+var userresult;
 
 username = prompt("お名前を教えて下さい。");
 if (username == ""){
